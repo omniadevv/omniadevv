@@ -1,6 +1,4 @@
--Hi, I’m @omniadevv
--I’m interested in fullstack web development.
-=I’m currently learning javascript
+-Hi, I’m @omniadevv. I’m interested in fullstack web development. I’m currently learning javascript :)
 
 <!---
 omniadevv/omniadevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
